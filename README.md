@@ -1,1 +1,1 @@
-# Atividades 2
+# Problema 2335 do LeetCode
