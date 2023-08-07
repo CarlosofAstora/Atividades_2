@@ -1,4 +1,4 @@
-```
+
 int fillCups(int* amount, int amountSize){
 	int amount[3]={5,4,4}, seg, i;
 	
@@ -20,7 +20,7 @@ int fillCups(int* amount, int amountSize){
 
 
 	//Lógica: Diminuir os dois maiores valores a cada passada do loop. Obstáculo atual: O que fazer quando apenas um número for maior que zero?
-	```	
+	
 		
 		
 	
